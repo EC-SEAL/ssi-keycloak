@@ -1,1 +1,1 @@
-# SPI for SSI via UPort
+# SPI for SSI via UPort & Jolocom
